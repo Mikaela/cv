@@ -38,6 +38,7 @@ Pirate Party of Finland._</span>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<em lang="fi">Automaattinen sisällysluettelo</em> / <em lang="en">Automatically generated Table of Contents</em>
 
 - [Volunteering, positions of trust](#volunteering-positions-of-trust)
 - [IT Skills](#it-skills)

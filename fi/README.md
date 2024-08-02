@@ -38,6 +38,7 @@ piraattipuolueessa._</span>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<em lang="fi">Automaattinen sisällysluettelo</em> / <em lang="en">Automatically generated Table of Contents</em>
 
 - [Luottamustehtävät, vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t-vapaa-ehtoisty%C3%B6)
 - [IT-Taidot](#it-taidot)
