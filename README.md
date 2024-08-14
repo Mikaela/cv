@@ -26,7 +26,7 @@ Pirate Party of Finland._</span>
   <li>Helsinki, Finland</li>
   <li><a href="https://aminda.eu">Aminda.eu</a> <a href="https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY">Keyoxide</a>  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
   <li><a href="https://github.com/{{ site.github_username }}">GitHub</a> <a href="https://gitlab.com/Mikaela">GitLab.com</a> <a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
-  <li><a href="mailto:{{ site.email }}">Email</a> <a href="https://aminda.eu/txt/telegram.txt">Telegram</a> <a href="https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up">Signal</a></li>
+  <li><a href="mailto:{{ site.email }}">Email</a></li>
 </ul>
 
 <p style="text-align: center;">&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;&#8203;&#127987;&#65039;&#8205;&#9895;</p>
