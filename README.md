@@ -17,7 +17,7 @@ robots: nofollow
 
 <img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="photo of me"/>
 
-<span id="bio">_…is an open-source enthustiastic volunteer sysadmin in the
+<span id="bio">_…is an open-source enthustiastic IT generalist, currently volunteering as a sysadmin in the
 Pirate Party of Finland._</span>
 
 <p style="text-align: center;">&#127987;&#65039;&#8205;&#9895;&#8203;&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;</p>
