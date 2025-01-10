@@ -4,6 +4,7 @@ ruby file: ".ruby-version"
 #   Ref: https://github.com/Mikaela/mikaela.github.io/issues/153
 #gem "github-pages"
 gem "jekyll"
+gem "csv"
 # The default theme
 gem "minima"
 # Extensions enabled
