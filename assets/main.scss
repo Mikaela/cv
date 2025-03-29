@@ -21,7 +21,7 @@ $base-font-family: $serif-font-family;
 @import "{{ site.theme }}";
 
 :root {
-  color-scheme: light dark !important;
+  color-scheme: dark light !important;
 }
 
 * {
