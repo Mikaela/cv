@@ -15,7 +15,6 @@ ci:
 # Consistency with other tools
 default_language_version:
   node: "lts"
-  python: "3.13"
   ruby: ".ruby-version"
 
 repos:
@@ -43,7 +42,7 @@ repos:
         args: [--autofix, --no-ensure-ascii]
 
   - repo: https://github.com/pre-commit/sync-pre-commit-deps
-    rev: v0.0.2
+    rev: v0.0.3
     hooks:
       - id: sync-pre-commit-deps
 
@@ -59,7 +58,7 @@ repos:
         args: [--update-only, --no-title]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.31.0
+    rev: 0.32.1
     hooks:
       - id: check-dependabot
       - id: check-github-actions
@@ -82,7 +81,7 @@ repos:
         language: system
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "3.0.3"
+    rev: "3.2.0"
     hooks:
       - id: editorconfig-checker
         alias: ec
