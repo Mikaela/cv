@@ -10,13 +10,29 @@ $serif-font-family:
   ui-serif, "Roboto Serif", "Noto Serif", Tinos, serif, "Noto Emoji",
   "Noto Color Emoji", "Segoe UI Emoji", emoji;
 $sans-serif-font-family:
-  ui-sans-serif, "Roboto Flex", "Segoe UI Variable", Roboto, "Noto Sans",
-  Arimo, sans-serif, "Noto Emoji", "Noto Color Emoji", "Segoe UI Emoji", emoji;
+  "Inclusive Sans", ui-sans-serif, "Roboto Flex", "Segoe UI Variable", Roboto,
+  "Noto Sans", Arimo, sans-serif, "Noto Emoji", "Noto Color Emoji",
+  "Segoe UI Emoji", emoji;
 $monospace-font-family:
   ui-monospace, "Roboto Mono", "Segoe UI Mono", "Noto Mono", Cousine,
   monospace, "Noto Emoji", "Noto Color Emoji", "Segoe UI Emoji", emoji;
 // Must be in the end under threat of undefined variable error.
-$base-font-family: $serif-font-family;
+$base-font-family: $sans-serif-font-family;
+
+@font-face {
+  font-family: "Inclusive Sans";
+  src: url("https://raw.githubusercontent.com/LivKing/Inclusive-Sans/refs/heads/main/fonts/webfonts/InclusiveSans[wght].woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inclusive Sans Italic";
+  src: url("https://raw.githubusercontent.com/LivKing/Inclusive-Sans/refs/heads/main/fonts/webfonts/InclusiveSans-Italic[wght].woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
 
 @import "{{ site.theme }}";
 
@@ -65,23 +81,23 @@ code {
 }
 
 // Sans-Serif for headings to constrast with aminda.eu
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: $sans-serif-font-family !important;
-}
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   font-family: $sans-serif-font-family !important;
+// }
 
 h2.footer-heading {
-  font-family: $serif-font-family !important;
+  font-family: $sans-serif-font-family !important;
 }
 
 // The introduction on top
 #bio {
   text-align: center;
   font-style: italic;
-  font-family: ui-cursive, $serif-font-family;
+  font-family: ui-cursive, $sans-serif-font-family;
 }
 
 img {
