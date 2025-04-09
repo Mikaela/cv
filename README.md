@@ -20,7 +20,7 @@ robots: nofollow
 <span id="bio">_…is an open-source enthustiastic IT generalist, currently
 volunteering as a sysadmin in the Pirate Party of Finland._</span>
 
-<p style="text-align: center;">&#127987;&#65039;&#8205;&#9895;&#8203;&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;</p>
+<p style="text-align: center;">&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F;&#x200D;&#65038;&#x1F3F3;&#xFE0F;&#x200D;&#x1F308;</p>
 
 <ul class="linklist">
   <li>Helsinki, Finland</li>
@@ -29,7 +29,7 @@ volunteering as a sysadmin in the Pirate Party of Finland._</span>
   <li><a href="mailto:{{ site.email }}">Email</a></li>
 </ul>
 
-<p style="text-align: center;">&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;&#8203;&#127987;&#65039;&#8205;&#9895;</p>
+<p style="text-align: center;">&#x1F3F3;&#xFE0F;&#x200D;&#x1F308;&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F;&#x200D;&#65038;</p>
 
 ## Table of Contents
 
