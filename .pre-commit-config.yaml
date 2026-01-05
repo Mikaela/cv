@@ -58,7 +58,7 @@ repos:
         args: [--update-only, --no-title]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.34.0
+    rev: 0.36.0
     hooks:
       - id: check-dependabot
       - id: check-github-actions
@@ -68,7 +68,7 @@ repos:
         additional_dependencies: ["pyjson5"]
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v5.1.1
+    rev: v6.2.0
     hooks:
       - id: reuse
         exclude: ^.cache\/.*$
@@ -81,7 +81,7 @@ repos:
         language: system
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "3.4.0"
+    rev: "3.6.0"
     hooks:
       - id: editorconfig-checker
         alias: ec
