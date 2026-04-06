@@ -16,6 +16,9 @@ redirect_from:
 robots: nofollow
 ---
 
+<!-- https://keepandroidopen.org/banner/ -->
+<script src="https://keepandroidopen.org/banner.js?size=minimal&animation=off"></script>
+
 # Aminda Suomalainen
 
 <img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
