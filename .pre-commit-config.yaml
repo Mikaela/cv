@@ -42,7 +42,7 @@ repos:
         args: [--autofix, --no-ensure-ascii]
 
   - repo: https://github.com/pre-commit/sync-pre-commit-deps
-    rev: v0.0.3
+    rev: v0.0.5
     hooks:
       - id: sync-pre-commit-deps
 
@@ -52,13 +52,13 @@ repos:
       - id: check-pre-commit-ci-config
 
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.3.0
+    rev: v2.5.0
     hooks:
       - id: doctoc
         args: [--update-only, --no-title]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.37.1
+    rev: 0.38.2
     hooks:
       - id: check-dependabot
       - id: check-github-actions
@@ -81,7 +81,7 @@ repos:
         language: system
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "3.6.1"
+    rev: "3.11.1"
     hooks:
       - id: editorconfig-checker
         alias: ec
